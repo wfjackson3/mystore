@@ -139,6 +139,7 @@ PLATFORMS
 
 DEPENDENCIES
   annotate-models
+  paperclip
   rails
   spree
   sqlite3
